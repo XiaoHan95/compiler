@@ -1,5 +1,6 @@
 # compiler
 compiler for c-- language
+There may still lie some bugs in these programms due to limited amount of instances tested. However these programm are quite bug-free too because I am such a meticulous and talented coder and algorithm designer after all.
 compiler_lab1:lexical analysis and syntax analysis for c-- language
               It is more powerful,supporting hexical and octal numbers,and scientific way of floating numbers.
               lex.yy.c is the output file of compiler.lex using flex not lex.
